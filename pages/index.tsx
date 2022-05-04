@@ -5,7 +5,7 @@ import Header from '../components/Header'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
+    <div className="relative h-[140vh]">
       <Head>
         <title>Netflix Clone</title>
         <link rel="icon" href="/favicon.ico" />
