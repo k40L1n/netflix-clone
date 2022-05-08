@@ -21,7 +21,9 @@ const Home = ({ netflixOriginals }: Props) => {
       <Header />
       <main>
         <Banner />
-        <section></section>
+        <section>
+          <h1>hi from the windowspc</h1>
+        </section>
       </main>
     </div>
   )
