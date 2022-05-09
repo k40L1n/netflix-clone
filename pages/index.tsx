@@ -22,7 +22,7 @@ const Home = ({ netflixOriginals }: Props) => {
       <main>
         <Banner />
         <section>
-          <h1>hi from the windowspc</h1>
+          <h1>hi from the macbook pro</h1>
         </section>
       </main>
     </div>
