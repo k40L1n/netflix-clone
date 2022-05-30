@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  swcMinify: false,
+  swcMinify: true,
   reactStrictMode: true,
   images: {
     domains: ['image.tmdb.org'],
