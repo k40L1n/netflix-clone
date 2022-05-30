@@ -3,6 +3,6 @@ module.exports = {
   swcMinify: false,
   reactStrictMode: true,
   images: {
-    domains: ['image.tmdb.org', 'vercel.app'],
+    domains: ['image.tmdb.org'],
   },
 }
